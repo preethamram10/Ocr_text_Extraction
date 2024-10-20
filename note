@@ -1,0 +1,4 @@
+Text extraction from images: Supports multiple languages for text recognition.
+Preprocessing options: Image enhancement techniques to improve OCR accuracy.
+Batch processing: Allows for processing multiple images in a single run.
+Integration-ready: Can be easily integrated with other Python projects.
